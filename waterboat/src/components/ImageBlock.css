@@ -1,0 +1,61 @@
+.image-block{
+    text-align:center;
+}
+
+
+.emoticon
+{
+    padding-top: 20px;
+    color: #1089FF ;
+    font-size: 40px;
+}
+.titlu{
+    
+    font-size:25px;
+    font-weight: bold; 
+}
+
+.bottom-container{
+    padding:50px 0px 50px 0px;
+    height: 250px;
+    position: relative;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    overflow:hidden
+}
+.bottom-container .image{
+    
+    position:static;
+    width:100%;
+}
+ .button{
+    position: absolute;
+    bottom: 35%;
+}
+.button .buton{
+    padding: 20px 10px 20px 10px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color:orange;
+    color: white ;
+    margin: 20px 0px 20px 0px;
+}
+.title{
+    position: absolute;
+    bottom:60%;
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.description{
+    position: absolute;
+    bottom:50%;
+    color:white
+}
+.overlay{
+    position: absolute;
+    background-color: rgba(16,137,255,.8);
+    width: 100%;
+    height: 100%;
+}

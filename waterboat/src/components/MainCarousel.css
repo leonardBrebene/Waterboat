@@ -1,0 +1,23 @@
+.slick-next{
+    right: 25px;
+}
+
+.slick-prev {
+    left: 25px;
+    z-index: 3;
+}
+
+.slide .slide-img{
+    text-align: center;
+    display: inline-block;
+    width: 800px;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+
+.slide {
+    text-align: center;
+    background-color: #1089FF;
+}

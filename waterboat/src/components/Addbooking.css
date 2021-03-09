@@ -1,0 +1,23 @@
+.addBooking{
+    max-width: 400px;
+    margin: auto;
+    padding: 100px;
+}
+
+.form-label{
+    display: block;
+    padding: 2px 1px;
+}
+
+.form-element{
+    display: block;
+    width: 100%;
+}
+
+.form-button{
+    background-color: red;
+    color: purple;
+}
+.ceas{
+    display: block; 
+}
