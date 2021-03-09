@@ -13,7 +13,7 @@ function ImageBlock(props) {
          className+=props.className
      }
     
-       //let naruto=<FontAwesomeIcon icon={faGlobeEurope}/>
+    
     
     return (
         
